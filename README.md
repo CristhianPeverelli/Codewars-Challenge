@@ -6,3 +6,5 @@ Sometimes in my free time I work on Codewars.com Challenges (or Kata) that go fr
 These solutions aren't the best as you could possibly imagine, but are the best I've done. They have all passed the test for the submitting, so I pressuposed they are correct (but isn't confirmed for all the limit cases!).
 
 If you want to read the specifics of every program, just type the class title into Codewars.com and you will find the original challenge. 
+
+My profile link: https://www.codewars.com/users/CristhianPeverelli/
