@@ -1,5 +1,5 @@
 # Codewars-Challenge
-Uploads of some Kata solutions I wrote and tested on [codewars.com](codewars.com), down here you can check my profile!
+Uploads of some Kata solutions I wrote and tested on [codewars.com](www.codewars.com), down here you can check my profile!
 
 ![Profile badge](https://www.codewars.com/users/CristhianPeverelli/badges/large)
 
