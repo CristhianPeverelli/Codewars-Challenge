@@ -1,7 +1,7 @@
 # Codewars-Challenge
 Uploads of some Kata solutions I wrote and tested on [codewars.com](codewars.com), down here you can check my profile!
 
-[](https://www.codewars.com/users/CristhianPeverelli/badges/large)
+[![Profile badge](https://www.codewars.com/users/CristhianPeverelli/badges/large)
 
 ## What is Codewars?
 Its a site where creative users can publish coding puzzles/challenges and you can try to solve them by choosing your favorite language/s, writing down you program, and testing it with the site's input. The higher are the challenges you complete, the higher is the score you will get! 
