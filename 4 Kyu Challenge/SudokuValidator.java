@@ -13,7 +13,6 @@ public class SudokuValidator {
             {3, 4, 5, 2, 8, 6, 1, 7, 9}
         };
         System.out.println(check(sudoku));
-        checkSubsquare(sudoku);
     }
 
     public static boolean check(int[][] sudoku) {
